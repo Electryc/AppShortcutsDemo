@@ -8,7 +8,7 @@
     android:shortcutLongLabel="@string/static_shortcut_long_label"
     android:shortcutShortLabel="@string/static_shortcut_short_label">
     <intent
-      android:action="android.intent.action.VIEW"
+      android:action="android.intent.action.MAIN"
       android:targetClass="com.catinean.appshortcutsdemo.MainActivity"
       android:targetPackage="com.catinean.appshortcutsdemo" />
     <intent
