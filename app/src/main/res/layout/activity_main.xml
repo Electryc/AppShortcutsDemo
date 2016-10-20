@@ -10,4 +10,10 @@
   android:paddingTop="@dimen/activity_vertical_margin"
   tools:context="com.catinean.appshortcutsdemo.MainActivity">
 
+  <Button
+    android:id="@+id/main_rank_button"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Make catinean.com shortcut to top" />
+
 </RelativeLayout>
